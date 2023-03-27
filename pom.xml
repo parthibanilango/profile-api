@@ -8,7 +8,7 @@
 	</parent>
 	<groupId>com.gl.profile</groupId>
 	  <artifactId>profile-api</artifactId>
-	  <version>0.0.1</version>
+	  <version>0.0.2</version>
 	  <name>Profile api</name>
 	  <description>This is used to get and update profile</description>
 	  <properties>
